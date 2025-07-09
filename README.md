@@ -141,7 +141,6 @@ CREATE TABLE applications (
    ```env
     VITE_IO_INTELLIGENCE_API_KEY=your_api_key
     VITE_IO_NET_BASE_URL=https://api.intelligence.io.solutions/api/v1
-    VITE_IO_INTELLIGENCE_API_KEY=your_api_key
     VITE_IO_MODEL_ID=any_model_name
     VITE_SUPABASE_URL=your_supabase_url
     VITE_SUPABASE_ANON_KEY=your_supabase_anon_key
